@@ -222,11 +222,16 @@ A través de este trabajo se espera demostrar que:
 ├── poster/
 │   ├── poster.tex
 │   ├── poster.pdf
+│   ├── poster_source.pdf
 │   └── figures/
 ├── docs/
+│   ├── README.md
 │   ├── guion_exposicion.md
+│   ├── guion_exposicion_desarrollado.pdf
+│   ├── guion_exposicion_gonzalo_pacheco.pdf
 │   ├── notas_metodologia.md
-│   └── referencias.bib
+│   └── bibliografia.pdf
 └── assets/
     ├── logo_urjc.png
+    ├── qr_bibliografia.png
     └── qr_repo.png
