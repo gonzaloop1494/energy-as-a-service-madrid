@@ -229,6 +229,7 @@ A través de este trabajo se espera demostrar que:
 │   ├── guion_exposicion.md
 │   ├── guion_exposicion_desarrollado.pdf
 │   ├── guion_exposicion_gonzalo_pacheco.pdf
+│   ├── recapitulacion.pdf
 │   ├── notas_metodologia.md
 │   └── bibliografia.pdf
 └── assets/

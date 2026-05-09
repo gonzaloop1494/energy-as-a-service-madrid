@@ -13,6 +13,7 @@ El proyecto propone una solucion domotica para una vivienda tipo en Madrid basad
 - [`docs/guion_exposicion.md`](docs/guion_exposicion.md): guion de exposicion en Markdown.
 - [`docs/guion_exposicion_desarrollado.pdf`](docs/guion_exposicion_desarrollado.pdf): guion desarrollado.
 - [`docs/guion_exposicion_gonzalo_pacheco.pdf`](docs/guion_exposicion_gonzalo_pacheco.pdf): version PDF del guion.
+- [`docs/recapitulacion.pdf`](docs/recapitulacion.pdf): documento de recapitulacion de la exposicion.
 - [`docs/notas_metodologia.md`](docs/notas_metodologia.md): notas sobre alcance, supuestos y criterios tecnicos.
 - [`docs/bibliografia.pdf`](docs/bibliografia.pdf): bibliografia.
 - [`assets/`](assets): logo URJC y QR de bibliografia.
@@ -32,6 +33,7 @@ El proyecto propone una solucion domotica para una vivienda tipo en Madrid basad
 │   ├── guion_exposicion.md
 │   ├── guion_exposicion_desarrollado.pdf
 │   ├── guion_exposicion_gonzalo_pacheco.pdf
+│   ├── recapitulacion.pdf
 │   ├── notas_metodologia.md
 │   └── bibliografia.pdf
 └── assets/
